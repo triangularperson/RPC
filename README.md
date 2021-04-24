@@ -1,4 +1,5 @@
 # A fancy discord-rpc handler for a fancy ReefRaid RP
+![What to expect](https://cdn.reefraid.com/rp.png)
 
 ## Installation
 1. Make sure you have [NodeJS & NPM](https://nodejs.org/en/download/) installed on your system
