@@ -1,4 +1,4 @@
-# A fancy discord-rpc handler for a fancy ReefRaid RP
+# A fancy ReefRaid Discord Rich Presence 
 ![What to expect](https://cdn.reefraid.com/rp.png)
 
 ## Installation
