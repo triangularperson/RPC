@@ -8,4 +8,4 @@
 4. Run the script using `node index.js`
 
 ## Dependencies
-[discord-rpc](https://github.com/discord/discord-rpc)
+1. [discord-rpc](https://github.com/discord/discord-rpc)
