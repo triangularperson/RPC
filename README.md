@@ -6,3 +6,6 @@
 2. Create a new folder, and clone this repository
 3. Use `npm install` to install dependencies
 4. Run the script using `node index.js`
+
+## Dependencies
+[discord-rpc](https://github.com/discord/discord-rpc)
